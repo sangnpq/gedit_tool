@@ -1,5 +1,5 @@
 # GEDIT TOOL
-Small format tool for gedit
+Small format XML and JSON tool for gedit
 
 ## Environment:
 - Python 2.7
