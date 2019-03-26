@@ -1,4 +1,4 @@
-# gedit_tool
+# GEDIT TOOL
 Small format tool for gedit
 
 ## Environment:
